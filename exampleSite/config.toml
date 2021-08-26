@@ -5,7 +5,7 @@ googleAnalytics = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-timeZone = "GMT-7:00"
+timeZone = "America/Edmonton"
 title = "Burntwood Hearing | Cranbrook, BC"
 [languages.de]
 contentDir = "content/german"
